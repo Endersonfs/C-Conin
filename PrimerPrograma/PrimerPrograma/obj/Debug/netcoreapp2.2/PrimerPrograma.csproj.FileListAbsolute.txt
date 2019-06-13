@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp2.2\PrimerPrograma.deps.json
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp2.2\PrimerPrograma.runtimeconfig.json
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp2.2\PrimerPrograma.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp2.2\PrimerPrograma.dll
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\bin\Debug\netcoreapp2.2\PrimerPrograma.pdb
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp2.2\PrimerPrograma.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp2.2\PrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp2.2\PrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp2.2\PrimerPrograma.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp2.2\PrimerPrograma.dll
+C:\Users\Usuario\Documents\Curso.net\practica\Curso C#\PrimerPrograma\PrimerPrograma\obj\Debug\netcoreapp2.2\PrimerPrograma.pdb
